@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.27)  20 OCT 2024 13:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.27)  24 OCT 2024 05:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -590,7 +590,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidthlast=\dimen157
 \titlewidthfirst=\dimen158
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+Package hyperref Info: Option `colorlinks' set `true' on input line 39.
 \@indexfile=\write4
 \openout4 = `main.idx'.
 
@@ -598,29 +598,32 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 Writing index file main.idx
 \@quotelevel=\count417
 \@quotereset=\count418
-(./main.aux)
+(./main.aux
+
+LaTeX Warning: Label `fig:dataframe' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-
-(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+ (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count419
 \scratchdimen=\dimen159
@@ -642,7 +645,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 47.
+Package hyperref Info: Link coloring ON on input line 49.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -656,9 +659,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count425
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
  (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -678,12 +681,12 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' not found.
 
 No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 47.
-Package biblatex Info: Reference segment=0 on input line 47.
+Package biblatex Info: Reference section=0 on input line 49.
+Package biblatex Info: Reference segment=0 on input line 49.
 <VIT-AP LOGO.png, id=285, 616.2222pt x 190.7928pt>
 File: VIT-AP LOGO.png Graphic file (type png)
 <use VIT-AP LOGO.png>
-Package pdftex.def Info: VIT-AP LOGO.png  used on input line 57.
+Package pdftex.def Info: VIT-AP LOGO.png  used on input line 59.
 (pdftex.def)             Requested size: 195.0pt x 60.37369pt.
 [1
 
@@ -692,7 +695,7 @@ Package pdftex.def Info: VIT-AP LOGO.png  used on input line 57.
 P LOGO.png>] [2] [3
 
 ]
-Overfull \hbox (0.10341pt too wide) in paragraph at lines 101--105
+Overfull \hbox (0.10341pt too wide) in paragraph at lines 103--107
 []\T1/cmr/m/n/12 This ver-sion of the pref-ace high-lights how R pro-gram-ming 
 is used through-
  []
@@ -748,7 +751,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Chapter 1.
 [9]
 
-LaTeX Warning: Citation 'wickham2017r' on page 10 undefined on input line 135.
+LaTeX Warning: Citation 'wickham2017r' on page 10 undefined on input line 137.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -781,12 +784,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 2.
 
-Overfull \hbox (7.66475pt too wide) in paragraph at lines 142--142
+Overfull \hbox (7.66475pt too wide) in paragraph at lines 144--144
 |\T1/cmr/bx/n/24.88 2 In-tro-duc-tion to R Pro-gram-ming| 
  []
 
 [13]
-Overfull \hbox (16.81905pt too wide) in paragraph at lines 172--173
+Overfull \hbox (16.81905pt too wide) in paragraph at lines 174--175
 []\T1/cmr/bx/n/12 Reproducible Re-search: \T1/cmr/m/n/12 R sup-ports re-pro-duc
 ible re-search through
  []
@@ -809,7 +812,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-Overfull \hbox (24.78966pt too wide) in paragraph at lines 197--198
+Overfull \hbox (24.78966pt too wide) in paragraph at lines 199--200
 []\T1/cmr/m/n/12 Overview of R pack-ages and how to in-stall them us-ing \T1/cm
 tt/m/n/12 install.packages()\T1/cmr/m/n/12 . 
  []
@@ -841,13 +844,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
-Overfull \hbox (15.10657pt too wide) in paragraph at lines 291--292
+Overfull \hbox (15.10657pt too wide) in paragraph at lines 293--294
 []\T1/cmr/bx/n/12 Appearance: \T1/cmr/m/n/12 Go to \T1/cmtt/m/n/12 Tools > Glob
 al Options > Appearance \T1/cmr/m/n/12 to change
  []
 
 
-Overfull \hbox (26.53575pt too wide) in paragraph at lines 303--304
+Overfull \hbox (26.53575pt too wide) in paragraph at lines 305--306
 []\T1/cmr/m/n/12 Manage in-stalled pack-ages via the \T1/cmtt/m/n/12 Packages \
 T1/cmr/m/n/12 tab or use \T1/cmtt/m/n/12 install.packages()
  []
@@ -906,7 +909,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Overfull \hbox (73.01193pt too wide) in paragraph at lines 517--517
+Overfull \hbox (73.01193pt too wide) in paragraph at lines 519--519
 []\T1/cmtt/m/n/12 Names <- c("Arvind", "Krishna", "Rahul", "Saurabh", "Venkat",
  "Sucharitha")[] 
  []
@@ -920,7 +923,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
-Overfull \hbox (23.624pt too wide) in paragraph at lines 542--542
+Overfull \hbox (23.624pt too wide) in paragraph at lines 544--544
 []\T1/cmtt/m/n/12 ## [1] "Arvind"     "Krishna"    "Rahul"      "Saurabh"    "V
 enkat"[] 
  []
@@ -934,43 +937,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-Overfull \hbox (23.624pt too wide) in paragraph at lines 589--589
+Overfull \hbox (23.624pt too wide) in paragraph at lines 591--591
 []\T1/cmtt/m/n/12 ## [1] "Arun"       "Krishna"    "Rahul"      "Saurabh"    "V
 enkat"[] 
  []
 
 
-Overfull \hbox (11.27701pt too wide) in paragraph at lines 600--600
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 602--602
 []\T1/cmtt/m/n/12 Names[-1] # All elements except the first element will be pri
 nted[] 
  []
 
 
-Overfull \hbox (48.31796pt too wide) in paragraph at lines 600--600
+Overfull \hbox (48.31796pt too wide) in paragraph at lines 602--602
 []\T1/cmtt/m/n/12 ## [1] "Krishna"    "Rahul"      "Saurabh"    "Venkat"     "S
 ucharitha"[] 
  []
 
 
-Overfull \hbox (128.57336pt too wide) in paragraph at lines 600--600
+Overfull \hbox (128.57336pt too wide) in paragraph at lines 602--602
 []\T1/cmtt/m/n/12 Names[c(-1, -2)] # All elements except the first and second e
 lements will be printed[] 
  []
 
 
-Overfull \hbox (11.27701pt too wide) in paragraph at lines 600--600
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 602--602
 []\T1/cmtt/m/n/12 ## [1] "Rahul"      "Saurabh"    "Venkat"     "Sucharitha" "A
 jay"[] 
  []
 
 
-Overfull \hbox (122.39987pt too wide) in paragraph at lines 607--607
+Overfull \hbox (122.39987pt too wide) in paragraph at lines 609--609
 []\T1/cmtt/m/n/12 Names[-c(1, 2)] # All elements except the first and second el
 ements will be printed[] 
  []
 
 
-Overfull \hbox (11.27701pt too wide) in paragraph at lines 607--607
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 609--609
 []\T1/cmtt/m/n/12 ## [1] "Rahul"      "Saurabh"    "Venkat"     "Sucharitha" "A
 jay"[] 
  []
@@ -984,13 +987,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27]
-Overfull \hbox (177.9613pt too wide) in paragraph at lines 616--616
+Overfull \hbox (177.9613pt too wide) in paragraph at lines 618--618
 []\T1/cmtt/m/n/12 seq(1, 10, by = 1) # Create a sequential vector from 1 to 10 
 which increases by 1 in length.[] 
  []
 
 
-Overfull \hbox (85.35892pt too wide) in paragraph at lines 616--616
+Overfull \hbox (85.35892pt too wide) in paragraph at lines 618--618
 []\T1/cmtt/m/n/12 ##  [1]  1.0  1.5  2.0  2.5  3.0  3.5  4.0  4.5  5.0  5.5  6.
 0  6.5  7.0  7.5[] 
  []
@@ -1016,7 +1019,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Data-Frames-in-R-1-1.png, id=494, 314.17375pt x 121.45375pt>
 File: Data-Frames-in-R-1-1.png Graphic file (type png)
 <use Data-Frames-in-R-1-1.png>
-Package pdftex.def Info: Data-Frames-in-R-1-1.png  used on input line 746.
+Package pdftex.def Info: Data-Frames-in-R-1-1.png  used on input line 748.
 (pdftex.def)             Requested size: 272.99881pt x 105.54156pt.
 
 
@@ -1028,8 +1031,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30 <./Data-Frames-in-R-1-1.png>]
+<Data-Frames-in-R-1-2.png, id=500, 502.87875pt x 81.30376pt>
+File: Data-Frames-in-R-1-2.png Graphic file (type png)
+<use Data-Frames-in-R-1-2.png>
+Package pdftex.def Info: Data-Frames-in-R-1-2.png  used on input line 767.
+(pdftex.def)             Requested size: 272.99881pt x 44.1366pt.
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 769.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 777.
+<Data-Frames-in-R-1-3.png, id=501, 458.71375pt x 131.49126pt>
+File: Data-Frames-in-R-1-3.png Graphic file (type png)
+<use Data-Frames-in-R-1-3.png>
+Package pdftex.def Info: Data-Frames-in-R-1-3.png  used on input line 787.
+(pdftex.def)             Requested size: 272.99881pt x 78.25932pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1039,7 +1052,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[31]
+[31 <./Data-Frames-in-R-1-2.png> <./Data-Frames-in-R-1-3.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1058,11 +1071,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33]
-Overfull \hbox (91.53241pt too wide) in paragraph at lines 939--939
-[]\T1/cmtt/m/n/12 ## Warning in matrix(2:10, nrow = 5): data length [9] is not 
-a sub-multiple or[] 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1072,6 +1080,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
+Overfull \hbox (91.53241pt too wide) in paragraph at lines 953--953
+[]\T1/cmtt/m/n/12 ## Warning in matrix(2:10, nrow = 5): data length [9] is not 
+a sub-multiple or[] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1099,7 +1112,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-Overfull \hbox (60.66495pt too wide) in paragraph at lines 1107--1107
+Overfull \hbox (60.66495pt too wide) in paragraph at lines 1121--1121
 []\T1/cmtt/m/n/12 M4[2,3] % # Extracting second row and third column element fr
 om Matrix M4[] 
  []
@@ -1113,13 +1126,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38]
-Overfull \hbox (0.65576pt too wide) in paragraph at lines 1126--1127
+Overfull \hbox (0.65576pt too wide) in paragraph at lines 1140--1141
 []\T1/cmr/m/n/12 Using built-in func-tions and ap-ply-ing func-tions like \T1/c
 mtt/m/n/12 apply()\T1/cmr/m/n/12 , \T1/cmtt/m/n/12 lapply()\T1/cmr/m/n/12 ,
  []
 
 
-Overfull \hbox (16.53252pt too wide) in paragraph at lines 1140--1141
+Overfull \hbox (16.53252pt too wide) in paragraph at lines 1154--1155
 []\T1/cmr/m/n/12 Key func-tions: \T1/cmtt/m/n/12 filter()\T1/cmr/m/n/12 , \T1/c
 mtt/m/n/12 select()\T1/cmr/m/n/12 , \T1/cmtt/m/n/12 mutate()\T1/cmr/m/n/12 , \T
 1/cmtt/m/n/12 arrange()\T1/cmr/m/n/12 , \T1/cmtt/m/n/12 summarize()\T1/cmr/m/n/
@@ -1135,7 +1148,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-Overfull \hbox (18.33202pt too wide) in paragraph at lines 1164--1165
+Overfull \hbox (18.33202pt too wide) in paragraph at lines 1178--1179
 []\T1/cmr/m/n/12 Overview of es-sen-tial pack-ages for statis-tics (e.g., \T1/c
 mtt/m/n/12 MASS\T1/cmr/m/n/12 , \T1/cmtt/m/n/12 caret\T1/cmr/m/n/12 , \T1/cmtt/
 m/n/12 tidyverse\T1/cmr/m/n/12 ). 
@@ -1186,7 +1199,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Appendix B.
 [45]
 
-LaTeX Warning: Empty bibliography on input line 1223.
+LaTeX Warning: Empty bibliography on input line 1237.
 
 No file main.ind.
 (./main.aux)
@@ -1194,7 +1207,7 @@ No file main.ind.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 01AA4CDE2C9338404F037A9C51E81C8D;11644.
@@ -1208,10 +1221,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18510 strings out of 478268
- 321418 string characters out of 5846347
- 1121209 words of memory out of 5000000
- 36391 multiletter control sequences out of 15000+600000
+ 18526 strings out of 478268
+ 321836 string characters out of 5846347
+ 1121251 words of memory out of 5000000
+ 36403 multiletter control sequences out of 15000+600000
  481177 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,77p,737b,1137s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1229,10 +1242,10 @@ ve/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive
 /2022/texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb></usr/local/texlive/2
 022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on main.pdf (45 pages, 419152 bytes).
+Output written on main.pdf (45 pages, 427477 bytes).
 PDF statistics:
- 656 PDF objects out of 1000 (max. 8388607)
- 575 compressed objects within 6 object streams
- 117 named destinations out of 1000 (max. 500000)
- 571 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 660 PDF objects out of 1000 (max. 8388607)
+ 577 compressed objects within 6 object streams
+ 119 named destinations out of 1000 (max. 500000)
+ 581 words of extra memory for PDF output out of 10000 (max. 10000000)
 

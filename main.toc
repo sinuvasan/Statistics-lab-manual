@@ -50,9 +50,9 @@
 \contentsline {subsection}{\numberline {2.20.1}Step 1: Create a Data Frame of a Class in a School}{30}{subsection.2.20.1}%
 \contentsline {subsection}{\numberline {2.20.2}Step 2: Add the following line to our code}{31}{subsection.2.20.2}%
 \contentsline {subsection}{\numberline {2.20.3}Step 3: Use the \texttt {summary()} Function}{31}{subsection.2.20.3}%
-\contentsline {section}{\numberline {2.21}Matrices in R}{31}{section.2.21}%
+\contentsline {section}{\numberline {2.21}Matrices in R}{32}{section.2.21}%
 \contentsline {subsection}{\numberline {2.21.1}Extracting Row/Column from Matrices}{33}{subsection.2.21.1}%
-\contentsline {subsection}{\numberline {2.21.2}Operations in Matrices}{33}{subsection.2.21.2}%
+\contentsline {subsection}{\numberline {2.21.2}Operations in Matrices}{34}{subsection.2.21.2}%
 \contentsline {subsubsection}{Arithmetic Operations in Matrices}{34}{subsection.2.21.2}%
 \contentsline {subsection}{\numberline {2.21.3}Transposing a Matrix}{37}{subsection.2.21.3}%
 \contentsline {subsection}{\numberline {2.21.4}Common Matrix Operations in R}{38}{subsection.2.21.4}%
