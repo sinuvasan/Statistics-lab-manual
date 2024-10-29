@@ -1,71 +1,160 @@
 \contentsline {chapter}{Preface}{3}{chapter*.1}%
 \contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Introduction to R Programming}{13}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Introduction to R}{13}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Installing R and RStudio}{16}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Installing R}{16}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Windows}{16}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Mac OS X}{16}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Linux}{16}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Installing RStudio}{17}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Windows and Mac}{17}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Linux}{17}{subsection.2.4.2}%
-\contentsline {section}{\numberline {2.5}Overview of R Packages}{18}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Installing R Packages}{18}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Example of Installing a Package}{18}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Loading an Installed Package}{18}{subsection.2.6.2}%
-\contentsline {section}{\numberline {2.7}Commonly Used Packages}{19}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Basic Configuration Tips for RStudio}{19}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Code Execution}{19}{section.2.9}%
-\contentsline {section}{\numberline {2.10}Packages}{19}{section.2.10}%
-\contentsline {section}{\numberline {2.11}Basic R Syntax}{19}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Variables in R}{20}{section.2.12}%
-\contentsline {section}{\numberline {2.13}Data Types in R}{20}{section.2.13}%
-\contentsline {subsection}{\numberline {2.13.1}Numeric}{20}{subsection.2.13.1}%
-\contentsline {subsection}{\numberline {2.13.2}Character}{20}{subsection.2.13.2}%
-\contentsline {subsection}{\numberline {2.13.3}Factor}{21}{subsection.2.13.3}%
-\contentsline {subsection}{\numberline {2.13.4}Logical}{21}{subsection.2.13.4}%
-\contentsline {section}{\numberline {2.14}Introduction}{21}{section.2.14}%
-\contentsline {section}{\numberline {2.15}Arithmetic Operators}{21}{section.2.15}%
-\contentsline {subsection}{\numberline {2.15.1}Examples}{22}{subsection.2.15.1}%
-\contentsline {section}{\numberline {2.16}Relational Operators}{22}{section.2.16}%
-\contentsline {subsection}{\numberline {2.16.1}Examples}{23}{subsection.2.16.1}%
-\contentsline {section}{\numberline {2.17}Logical Operators}{23}{section.2.17}%
-\contentsline {subsection}{\numberline {2.17.1}Examples}{23}{subsection.2.17.1}%
-\contentsline {section}{\numberline {2.18}Vectors in R}{24}{section.2.18}%
-\contentsline {subsection}{\numberline {2.18.1}Example of a Numeric Vector}{24}{subsection.2.18.1}%
-\contentsline {subsection}{\numberline {2.18.2}Example of a Character Vector}{24}{subsection.2.18.2}%
-\contentsline {subsection}{\numberline {2.18.3}Integer}{24}{subsection.2.18.3}%
-\contentsline {subsection}{\numberline {2.18.4}Character}{24}{subsection.2.18.4}%
-\contentsline {subsection}{\numberline {2.18.5}Creating a Vector}{25}{subsection.2.18.5}%
-\contentsline {subsection}{\numberline {2.18.6}Class of Vector}{26}{subsection.2.18.6}%
-\contentsline {subsection}{\numberline {2.18.7}Adding Vectors of Different Types}{26}{subsection.2.18.7}%
-\contentsline {subsection}{\numberline {2.18.8}Accessing Elements of Vectors}{27}{subsection.2.18.8}%
-\contentsline {subsection}{\numberline {2.18.9}Creating Vector Using In-Built Functions}{28}{subsection.2.18.9}%
-\contentsline {subsection}{\numberline {2.18.10}Let’s Try to Repeat Vectors}{28}{subsection.2.18.10}%
-\contentsline {subsection}{\numberline {2.18.11}Arithmetic Operators in Vectors in R}{28}{subsection.2.18.11}%
-\contentsline {section}{\numberline {2.19}Introduction to Data Frames in R}{29}{section.2.19}%
-\contentsline {subsection}{\numberline {2.19.1}Characteristics of Data Frames}{30}{subsection.2.19.1}%
-\contentsline {section}{\numberline {2.20}Steps For Creating Data Frames in R}{30}{section.2.20}%
-\contentsline {subsection}{\numberline {2.20.1}Step 1: Create a Data Frame of a Class in a School}{30}{subsection.2.20.1}%
-\contentsline {subsection}{\numberline {2.20.2}Step 2: Add the following line to our code}{31}{subsection.2.20.2}%
-\contentsline {subsection}{\numberline {2.20.3}Step 3: Use the \texttt {summary()} Function}{31}{subsection.2.20.3}%
-\contentsline {section}{\numberline {2.21}Matrices in R}{32}{section.2.21}%
-\contentsline {subsection}{\numberline {2.21.1}Extracting Row/Column from Matrices}{33}{subsection.2.21.1}%
-\contentsline {subsection}{\numberline {2.21.2}Operations in Matrices}{34}{subsection.2.21.2}%
-\contentsline {subsubsection}{Arithmetic Operations in Matrices}{34}{subsection.2.21.2}%
-\contentsline {subsection}{\numberline {2.21.3}Transposing a Matrix}{37}{subsection.2.21.3}%
-\contentsline {subsection}{\numberline {2.21.4}Common Matrix Operations in R}{38}{subsection.2.21.4}%
-\contentsline {subsection}{\numberline {2.21.5}Naming Matrix Rows and Columns}{38}{subsection.2.21.5}%
-\contentsline {section}{\numberline {2.22}Functions in R}{39}{section.2.22}%
-\contentsline {section}{\numberline {2.23}Data Import and Export}{39}{section.2.23}%
-\contentsline {section}{\numberline {2.24}Data Manipulation}{39}{section.2.24}%
-\contentsline {section}{\numberline {2.25}Data Visualization}{39}{section.2.25}%
-\contentsline {section}{\numberline {2.26}Programming with R}{40}{section.2.26}%
-\contentsline {section}{\numberline {2.27}Working with Packages}{40}{section.2.27}%
-\contentsline {section}{\numberline {2.28}R Markdown}{40}{section.2.28}%
-\contentsline {section}{\numberline {2.29}Basic Project Structure}{40}{section.2.29}%
-\contentsline {section}{\numberline {2.30}Resources for Learning R}{41}{section.2.30}%
-\contentsline {section}{\numberline {2.31}Advanced Topics (Optional)}{41}{section.2.31}%
-\contentsline {chapter}{\numberline {A}Appendix A: LaTeX Resources}{43}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Appendix B: Common LaTeX Errors}{45}{appendix.B}%
+\contentsline {chapter}{\numberline {2}Introduction to R Programming}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction to R}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Installing R and RStudio}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Installing R}{13}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Windows}{13}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Mac OS X}{14}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Linux}{14}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Installing RStudio}{14}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Windows and Mac}{14}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Linux}{15}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Overview of R Packages}{15}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Installing R Packages}{15}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Example of Installing a Package}{15}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Loading an Installed Package}{15}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}Commonly Used Packages}{16}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Basic Configuration Tips for RStudio}{16}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Code Execution}{16}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Packages}{16}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Basic R Syntax}{16}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Variables in R}{17}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Data Types in R}{17}{section.2.13}%
+\contentsline {subsection}{\numberline {2.13.1}Numeric}{17}{subsection.2.13.1}%
+\contentsline {subsection}{\numberline {2.13.2}Character}{17}{subsection.2.13.2}%
+\contentsline {subsection}{\numberline {2.13.3}Factor}{17}{subsection.2.13.3}%
+\contentsline {subsection}{\numberline {2.13.4}Logical}{18}{subsection.2.13.4}%
+\contentsline {section}{\numberline {2.14}Introduction}{18}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Arithmetic Operators}{18}{section.2.15}%
+\contentsline {subsection}{\numberline {2.15.1}Examples}{18}{subsection.2.15.1}%
+\contentsline {section}{\numberline {2.16}Relational Operators}{19}{section.2.16}%
+\contentsline {subsection}{\numberline {2.16.1}Examples}{19}{subsection.2.16.1}%
+\contentsline {section}{\numberline {2.17}Logical Operators}{19}{section.2.17}%
+\contentsline {subsection}{\numberline {2.17.1}Examples}{20}{subsection.2.17.1}%
+\contentsline {section}{\numberline {2.18}Vectors in R}{20}{section.2.18}%
+\contentsline {subsection}{\numberline {2.18.1}Example of a Numeric Vector}{20}{subsection.2.18.1}%
+\contentsline {subsection}{\numberline {2.18.2}Example of a Character Vector}{20}{subsection.2.18.2}%
+\contentsline {subsection}{\numberline {2.18.3}Integer}{20}{subsection.2.18.3}%
+\contentsline {subsection}{\numberline {2.18.4}Character}{21}{subsection.2.18.4}%
+\contentsline {subsection}{\numberline {2.18.5}Creating a Vector}{21}{subsection.2.18.5}%
+\contentsline {subsection}{\numberline {2.18.6}Class of Vector}{22}{subsection.2.18.6}%
+\contentsline {subsection}{\numberline {2.18.7}Adding Vectors of Different Types}{22}{subsection.2.18.7}%
+\contentsline {subsection}{\numberline {2.18.8}Accessing Elements of Vectors}{23}{subsection.2.18.8}%
+\contentsline {subsection}{\numberline {2.18.9}Creating Vector Using In-Built Functions}{23}{subsection.2.18.9}%
+\contentsline {subsection}{\numberline {2.18.10}Let’s Try to Repeat Vectors}{24}{subsection.2.18.10}%
+\contentsline {subsection}{\numberline {2.18.11}Arithmetic Operators in Vectors in R}{24}{subsection.2.18.11}%
+\contentsline {section}{\numberline {2.19}Introduction to Data Frames in R}{25}{section.2.19}%
+\contentsline {subsection}{\numberline {2.19.1}Characteristics of Data Frames}{25}{subsection.2.19.1}%
+\contentsline {section}{\numberline {2.20}Steps For Creating Data Frames in R}{25}{section.2.20}%
+\contentsline {subsection}{\numberline {2.20.1}Step 1: Create a Data Frame of a Class in a School}{25}{subsection.2.20.1}%
+\contentsline {subsection}{\numberline {2.20.2}Step 2: Add the following line to our code}{26}{subsection.2.20.2}%
+\contentsline {subsection}{\numberline {2.20.3}Step 3: Use the \texttt {summary()} Function}{26}{subsection.2.20.3}%
+\contentsline {paragraph}{Example \#1: Class 10 A}{28}{figure.2.5}%
+\contentsline {paragraph}{Example \#2: Class 10 B}{29}{figure.2.6}%
+\contentsline {paragraph}{Example \#3: rbind() function}{29}{figure.2.7}%
+\contentsline {section}{\numberline {2.21}Inspecting Data Frames}{33}{section.2.21}%
+\contentsline {section}{\numberline {2.22}Extracting Specific Data from the Data Frame}{35}{section.2.22}%
+\contentsline {section}{\numberline {2.23}Conclusion}{37}{section.2.23}%
+\contentsline {section}{\numberline {2.24}Matrices in R}{37}{section.2.24}%
+\contentsline {subsection}{\numberline {2.24.1}Extracting Row/Column from Matrices}{38}{subsection.2.24.1}%
+\contentsline {subsection}{\numberline {2.24.2}Operations in Matrices}{38}{subsection.2.24.2}%
+\contentsline {subsubsection}{Arithmetic Operations in Matrices}{39}{lstnumber.-90.17}%
+\contentsline {subsection}{\numberline {2.24.3}Transposing a Matrix}{41}{subsection.2.24.3}%
+\contentsline {subsection}{\numberline {2.24.4}Common Matrix Operations in R}{42}{subsection.2.24.4}%
+\contentsline {subsection}{\numberline {2.24.5}Naming Matrix Rows and Columns}{42}{subsection.2.24.5}%
+\contentsline {section}{\numberline {2.25}Creating a Function}{43}{section.2.25}%
+\contentsline {section}{\numberline {2.26}Function Arguments}{43}{section.2.26}%
+\contentsline {subsection}{\numberline {2.26.1}Example with Default and Named Arguments}{43}{subsection.2.26.1}%
+\contentsline {section}{\numberline {2.27}Return Values}{44}{section.2.27}%
+\contentsline {section}{\numberline {2.28}Default Arguments}{44}{section.2.28}%
+\contentsline {section}{\numberline {2.29}Lazy Evaluation}{44}{section.2.29}%
+\contentsline {section}{\numberline {2.30}Anonymous Functions}{44}{section.2.30}%
+\contentsline {section}{\numberline {2.31}Scoping Rules}{45}{section.2.31}%
+\contentsline {section}{\numberline {2.32}Complete Example of a Function}{45}{section.2.32}%
+\contentsline {section}{\numberline {2.33}Conclusion}{45}{section.2.33}%
+\contentsline {section}{\numberline {2.34}Data Import and Export in R}{46}{section.2.34}%
+\contentsline {subsection}{\numberline {2.34.1}1. CSV Files}{46}{subsection.2.34.1}%
+\contentsline {subsection}{\numberline {2.34.2}2. Excel Files}{46}{subsection.2.34.2}%
+\contentsline {subsection}{\numberline {2.34.3}3. Text Files}{47}{subsection.2.34.3}%
+\contentsline {subsection}{\numberline {2.34.4}4. R Data Files}{47}{subsection.2.34.4}%
+\contentsline {subsection}{\numberline {2.34.5}5. Databases}{47}{subsection.2.34.5}%
+\contentsline {subsection}{\numberline {2.34.6}6. SPSS, SAS, and Stata Files}{47}{subsection.2.34.6}%
+\contentsline {section}{\numberline {2.35}Data Export in R}{48}{section.2.35}%
+\contentsline {subsection}{\numberline {2.35.1}1. CSV Files}{48}{subsection.2.35.1}%
+\contentsline {subsection}{\numberline {2.35.2}2. Excel Files}{48}{subsection.2.35.2}%
+\contentsline {subsection}{\numberline {2.35.3}3. Text Files}{48}{subsection.2.35.3}%
+\contentsline {subsection}{\numberline {2.35.4}4. R Data Files}{48}{subsection.2.35.4}%
+\contentsline {section}{\numberline {2.36}Importing Data from the Internet}{48}{section.2.36}%
+\contentsline {subsection}{\numberline {2.36.1}1. Reading Data from URLs}{49}{subsection.2.36.1}%
+\contentsline {subsection}{\numberline {2.36.2}2. JSON and APIs}{49}{subsection.2.36.2}%
+\contentsline {subsection}{\numberline {2.36.3}3. Web Scraping}{49}{subsection.2.36.3}%
+\contentsline {subsection}{\numberline {2.36.4}4. Google Sheets}{49}{subsection.2.36.4}%
+\contentsline {subsection}{\numberline {2.36.5}5. XML Data}{50}{subsection.2.36.5}%
+\contentsline {section}{\numberline {2.37}Conclusion}{50}{section.2.37}%
+\contentsline {section}{\numberline {2.38}Data Visualization}{50}{section.2.38}%
+\contentsline {section}{\numberline {2.39}For Loop in R}{76}{section.2.39}%
+\contentsline {subsection}{\numberline {2.39.1}Syntax of the For Loop}{77}{subsection.2.39.1}%
+\contentsline {subsection}{\numberline {2.39.2}Example 1: Basic For Loop}{77}{subsection.2.39.2}%
+\contentsline {subsection}{\numberline {2.39.3}Example 2: Calculating the Sum of a Vector}{77}{subsection.2.39.3}%
+\contentsline {subsection}{\numberline {2.39.4}Example 3: Iterating Over a List}{78}{subsection.2.39.4}%
+\contentsline {subsection}{\numberline {2.39.5}Example 4: Creating a Multiplication Table}{78}{subsection.2.39.5}%
+\contentsline {subsection}{\numberline {2.39.6}Example 5: Nested For Loops}{78}{subsection.2.39.6}%
+\contentsline {subsection}{\numberline {2.39.7}Example 6: Using a For Loop with Conditional Statements}{79}{subsection.2.39.7}%
+\contentsline {subsection}{\numberline {2.39.8}Summary}{79}{subsection.2.39.8}%
+\contentsline {section}{\numberline {2.40}While Loop in R}{79}{section.2.40}%
+\contentsline {subsection}{\numberline {2.40.1}Syntax of \texttt {while} Loop}{80}{subsection.2.40.1}%
+\contentsline {subsection}{\numberline {2.40.2}Characteristics of \texttt {while} Loop}{80}{subsection.2.40.2}%
+\contentsline {subsection}{\numberline {2.40.3}Examples of \texttt {while} Loop}{80}{subsection.2.40.3}%
+\contentsline {subsubsection}{1. Basic Countdown}{80}{subsection.2.40.3}%
+\contentsline {subsubsection}{2. User Input Until Condition Met}{81}{lstnumber.-181.6}%
+\contentsline {subsubsection}{3. Collatz Conjecture}{81}{lstnumber.-182.8}%
+\contentsline {subsubsection}{4. Infinite Loop with Exit Condition}{82}{lstnumber.-183.15}%
+\contentsline {subsection}{\numberline {2.40.4}Important Notes}{82}{subsection.2.40.4}%
+\contentsline {subsection}{\numberline {2.40.5}Conclusion}{82}{subsection.2.40.5}%
+\contentsline {section}{\numberline {2.41}If-Else Statements in R}{82}{section.2.41}%
+\contentsline {subsection}{\numberline {2.41.1}Basic Structure}{83}{subsection.2.41.1}%
+\contentsline {subsection}{\numberline {2.41.2}Explanation of Components}{83}{subsection.2.41.2}%
+\contentsline {subsection}{\numberline {2.41.3}Extended If-Else Statement}{83}{subsection.2.41.3}%
+\contentsline {subsection}{\numberline {2.41.4}Examples}{83}{subsection.2.41.4}%
+\contentsline {subsubsection}{Example 1: Basic If-Else}{83}{subsection.2.41.4}%
+\contentsline {subsubsection}{Example 2: If-Else with Multiple Conditions}{84}{lstnumber.-188.1}%
+\contentsline {subsubsection}{Example 3: Checking for Even or Odd}{84}{lstnumber.-190.1}%
+\contentsline {subsubsection}{Example 4: Grading System}{84}{lstnumber.-192.1}%
+\contentsline {subsubsection}{Example 5: Using Logical Operators}{85}{lstnumber.-194.1}%
+\contentsline {subsection}{\numberline {2.41.5}Summary}{85}{subsection.2.41.5}%
+\contentsline {section}{\numberline {2.42}Working with Packages}{88}{section.2.42}%
+\contentsline {section}{\numberline {2.43}R Markdown}{88}{section.2.43}%
+\contentsline {subsection}{\numberline {2.43.1}Exercise}{90}{subsection.2.43.1}%
+\contentsline {section}{\numberline {2.44}Correlation}{91}{section.2.44}%
+\contentsline {section}{\numberline {2.45}Objectives}{91}{section.2.45}%
+\contentsline {section}{\numberline {2.46}Results}{92}{section.2.46}%
+\contentsline {subsection}{\numberline {2.46.1}Correlation Coefficient}{92}{subsection.2.46.1}%
+\contentsline {subsection}{\numberline {2.46.2}Scatter Plot}{92}{subsection.2.46.2}%
+\contentsline {section}{\numberline {2.47}Discussion}{92}{section.2.47}%
+\contentsline {section}{\numberline {2.48}Regression}{93}{section.2.48}%
+\contentsline {section}{\numberline {2.49}Objectives}{93}{section.2.49}%
+\contentsline {section}{\numberline {2.50}Materials and Methods}{93}{section.2.50}%
+\contentsline {subsection}{\numberline {2.50.1}Data Collection}{93}{subsection.2.50.1}%
+\contentsline {subsection}{\numberline {2.50.2}Linear Regression Analysis}{93}{subsection.2.50.2}%
+\contentsline {section}{\numberline {2.51}Results}{94}{section.2.51}%
+\contentsline {subsection}{\numberline {2.51.1}Descriptive Statistics}{94}{subsection.2.51.1}%
+\contentsline {subsection}{\numberline {2.51.2}Regression Coefficients}{94}{subsection.2.51.2}%
+\contentsline {subsection}{\numberline {2.51.3}Model Summary}{94}{subsection.2.51.3}%
+\contentsline {section}{\numberline {2.52}Discussion}{94}{section.2.52}%
+\contentsline {subsection}{\numberline {2.52.1}Interpretation of Coefficients}{94}{subsection.2.52.1}%
+\contentsline {subsection}{\numberline {2.52.2}Model Fit}{94}{subsection.2.52.2}%
+\contentsline {section}{\numberline {2.53}Conclusion}{95}{section.2.53}%
+\contentsline {section}{\numberline {2.54}Introduction}{96}{section.2.54}%
+\contentsline {section}{\numberline {2.55}Objectives}{96}{section.2.55}%
+\contentsline {section}{\numberline {2.56}Materials and Methods}{96}{section.2.56}%
+\contentsline {subsection}{\numberline {2.56.1}Data Collection}{96}{subsection.2.56.1}%
+\contentsline {subsection}{\numberline {2.56.2}Large Sample Test}{96}{subsection.2.56.2}%
+\contentsline {section}{\numberline {2.57}Results}{97}{section.2.57}%
+\contentsline {subsection}{\numberline {2.57.1}Descriptive Statistics}{97}{subsection.2.57.1}%
+\contentsline {subsection}{\numberline {2.57.2}Large Sample Test Results}{97}{subsection.2.57.2}%
+\contentsline {section}{\numberline {2.58}Discussion}{97}{section.2.58}%
+\contentsline {subsection}{\numberline {2.58.1}Interpretation of Results}{97}{subsection.2.58.1}%
+\contentsline {subsection}{\numberline {2.58.2}Practical Significance}{97}{subsection.2.58.2}%
+\contentsline {subsection}{\numberline {2.58.3}Assumptions and Limitations}{97}{subsection.2.58.3}%
+\contentsline {section}{\numberline {2.59}Conclusion}{97}{section.2.59}%
