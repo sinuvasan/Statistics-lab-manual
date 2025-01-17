@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.27)  29 OCT 2024 14:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.27)  17 JAN 2025 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -825,7 +825,7 @@ File: lstlang2.sty 2020/03/24 1.8d listings language file
 (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2020/03/24 1.8d listings language file
 )
-<VIT-AP LOGO.png, id=594, 616.2222pt x 190.7928pt>
+<VIT-AP LOGO.png, id=598, 616.2222pt x 190.7928pt>
 File: VIT-AP LOGO.png Graphic file (type png)
 <use VIT-AP LOGO.png>
 Package pdftex.def Info: VIT-AP LOGO.png  used on input line 81.
@@ -851,63 +851,63 @@ Chapter 1.
 [9
 
 ]
-Overfull \hbox (2.59764pt too wide) in paragraph at lines 152--153
+Overfull \hbox (2.59764pt too wide) in paragraph at lines 154--155
 []\T1/cmr/bx/n/10 Correlation and Re-gres-sion\T1/cmr/m/n/10 : Un-der-stand-ing
  re-la-tion-ships be-tween vari-
  []
 
 
-LaTeX Warning: Citation 'wickham2017r' on page 10 undefined on input line 159.
+LaTeX Warning: Citation 'wickham2017r' on page 10 undefined on input line 161.
 
 [10]
 Chapter 2.
 
-Overfull \hbox (4.90297pt too wide) in paragraph at lines 166--166
+Overfull \hbox (4.90297pt too wide) in paragraph at lines 168--168
 |\T1/cmr/bx/n/24.88 2 In-tro-duc-tion to R Pro-gram-
  []
 
 [11
 
 ]
-Overfull \hbox (1.77434pt too wide) in paragraph at lines 196--197
+Overfull \hbox (1.77434pt too wide) in paragraph at lines 198--199
 []\T1/cmr/bx/n/10 Reproducible Re-search: \T1/cmr/m/n/10 R sup-ports re-pro-duc
 ible re-search through
  []
 
 [12]
-Overfull \hbox (7.94662pt too wide) in paragraph at lines 221--222
+Overfull \hbox (7.94662pt too wide) in paragraph at lines 223--224
 []\T1/cmr/m/n/10 Overview of R pack-ages and how to in-stall them us-ing \T1/cm
 tt/m/n/10 install.packages()\T1/cmr/m/n/10 . 
  []
 
 [13] [14] [15]
-Overfull \hbox (9.39182pt too wide) in paragraph at lines 327--328
+Overfull \hbox (9.39182pt too wide) in paragraph at lines 329--330
 []\T1/cmr/m/n/10 Manage in-stalled pack-ages via the \T1/cmtt/m/n/10 Packages \
 T1/cmr/m/n/10 tab or use \T1/cmtt/m/n/10 install.packages()
  []
 
 [16] [17] [18] [19] [20] [21] [22] [23] [24]
-<Data-Frames-in-R-1-1.png, id=1017, 314.17375pt x 121.45375pt>
+<Data-Frames-in-R-1-1.png, id=1022, 314.17375pt x 121.45375pt>
 File: Data-Frames-in-R-1-1.png Graphic file (type png)
 <use Data-Frames-in-R-1-1.png>
-Package pdftex.def Info: Data-Frames-in-R-1-1.png  used on input line 770.
+Package pdftex.def Info: Data-Frames-in-R-1-1.png  used on input line 772.
 (pdftex.def)             Requested size: 241.49895pt x 93.35841pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [25]
-<Data-Frames-in-R-1-2.png, id=1034, 502.87875pt x 81.30376pt>
+<Data-Frames-in-R-1-2.png, id=1039, 502.87875pt x 81.30376pt>
 File: Data-Frames-in-R-1-2.png Graphic file (type png)
 <use Data-Frames-in-R-1-2.png>
-Package pdftex.def Info: Data-Frames-in-R-1-2.png  used on input line 789.
+Package pdftex.def Info: Data-Frames-in-R-1-2.png  used on input line 791.
 (pdftex.def)             Requested size: 241.49895pt x 39.04396pt.
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 799.
-<Data-Frames-in-R-1-3.png, id=1035, 458.71375pt x 131.49126pt>
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 801.
+<Data-Frames-in-R-1-3.png, id=1040, 458.71375pt x 131.49126pt>
 File: Data-Frames-in-R-1-3.png Graphic file (type png)
 <use Data-Frames-in-R-1-3.png>
-Package pdftex.def Info: Data-Frames-in-R-1-3.png  used on input line 809.
+Package pdftex.def Info: Data-Frames-in-R-1-3.png  used on input line 811.
 (pdftex.def)             Requested size: 241.49895pt x 69.22655pt.
 
 
@@ -918,171 +918,171 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.822 \begin{lstlisting}[language=R]
+l.824 \begin{lstlisting}[language=R]
                                     
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.822 \begin{lstlisting}[language=R]
+l.824 \begin{lstlisting}[language=R]
                                      <./Data-Frames-in-R-1-1.png> <./Data-Frame
 s-in-R-1-2.png>]
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@
 EC�).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 alpha: Factor w/ 3 levels “x”,
+l.834 alpha: Factor w/ 3 levels “x”,
                                         ”y”,”z”: 1 2 3
 ? 
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte "9C.
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte "9C.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 alpha: Factor w/ 3 levels “x”,
+l.834 alpha: Factor w/ 3 levels “x”,
                                         ”y”,”z”: 1 2 3
 ? 
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@EC�\lst@EC�).
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@EC�\lst@EC�).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 alpha: Factor w/ 3 levels “x”,
+l.834 alpha: Factor w/ 3 levels “x”,
                                         ”y”,”z”: 1 2 3
 ? 
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@
 EC�).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 alpha: Factor w/ 3 levels “x”,”y”,
+l.834 alpha: Factor w/ 3 levels “x”,”y”,
                                                 ”z”: 1 2 3
 ? 
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte "9D.
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte "9D.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 alpha: Factor w/ 3 levels “x”,”y”,
+l.834 alpha: Factor w/ 3 levels “x”,”y”,
                                                 ”z”: 1 2 3
 ? 
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@EC�\lst@EC�).
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@EC�\lst@EC�).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 alpha: Factor w/ 3 levels “x”,”y”,
+l.834 alpha: Factor w/ 3 levels “x”,”y”,
                                                 ”z”: 1 2 3
 ? 
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@
 EC�).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 ...ctor w/ 3 levels “x”,”y”,”z”:
+l.834 ...ctor w/ 3 levels “x”,”y”,”z”:
                                                    1 2 3
 ? 
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte "9D.
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte "9D.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 ...ctor w/ 3 levels “x”,”y”,”z”:
+l.834 ...ctor w/ 3 levels “x”,”y”,”z”:
                                                    1 2 3
 ? 
 
-./main.tex:832: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@EC�\lst@EC�).
+./main.tex:834: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@EC�\lst@EC�).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.832 ...ctor w/ 3 levels “x”,”y”,”z”:
+l.834 ...ctor w/ 3 levels “x”,”y”,”z”:
                                                    1 2 3
 ? 
-<Data-Frames-in-R-1-4.png, id=1047, 498.86375pt x 33.12375pt>
+<Data-Frames-in-R-1-4.png, id=1052, 498.86375pt x 33.12375pt>
 File: Data-Frames-in-R-1-4.png Graphic file (type png)
 <use Data-Frames-in-R-1-4.png>
-Package pdftex.def Info: Data-Frames-in-R-1-4.png  used on input line 862.
+Package pdftex.def Info: Data-Frames-in-R-1-4.png  used on input line 864.
 (pdftex.def)             Requested size: 241.49895pt x 16.03517pt.
 [27
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.867 
+l.869 
        <./Data-Frames-in-R-1-3.png>]
-<Data-Frames-in-R-1-5.png, id=1071, 312.16624pt x 46.1725pt>
+<Data-Frames-in-R-1-5.png, id=1076, 312.16624pt x 46.1725pt>
 File: Data-Frames-in-R-1-5.png Graphic file (type png)
 <use Data-Frames-in-R-1-5.png>
-Package pdftex.def Info: Data-Frames-in-R-1-5.png  used on input line 883.
+Package pdftex.def Info: Data-Frames-in-R-1-5.png  used on input line 885.
 (pdftex.def)             Requested size: 241.49895pt x 35.72058pt.
-<Data-Frames-in-R-1-6.png, id=1072, 298.11375pt x 121.45375pt>
+<Data-Frames-in-R-1-6.png, id=1077, 298.11375pt x 121.45375pt>
 File: Data-Frames-in-R-1-6.png Graphic file (type png)
 <use Data-Frames-in-R-1-6.png>
-Package pdftex.def Info: Data-Frames-in-R-1-6.png  used on input line 907.
+Package pdftex.def Info: Data-Frames-in-R-1-6.png  used on input line 909.
 (pdftex.def)             Requested size: 241.49895pt x 98.38809pt.
  [28
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.912 
+l.914 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.912 
+l.914 
        <./Data-Frames-in-R-1-4.png> <./Data-Frames-in-R-1-5.png>]
-<Data-Frames-in-R-1-7.png, id=1087, 287.0725pt x 109.40875pt>
+<Data-Frames-in-R-1-7.png, id=1092, 287.0725pt x 109.40875pt>
 File: Data-Frames-in-R-1-7.png Graphic file (type png)
 <use Data-Frames-in-R-1-7.png>
-Package pdftex.def Info: Data-Frames-in-R-1-7.png  used on input line 926.
+Package pdftex.def Info: Data-Frames-in-R-1-7.png  used on input line 928.
 (pdftex.def)             Requested size: 241.49895pt x 92.04126pt.
  [29
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.938 \end{lstlisting}
+l.940 \end{lstlisting}
                       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.7}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.938 \end{lstlisting}
+l.940 \end{lstlisting}
                        <./Data-Frames-in-R-1-6.png> <./Data-Frames-in-R-1-7.png
 >]
-<Data-Frames-in-R-1-8.png, id=1099, 300.12125pt x 191.71625pt>
+<Data-Frames-in-R-1-8.png, id=1104, 300.12125pt x 191.71625pt>
 File: Data-Frames-in-R-1-8.png Graphic file (type png)
 <use Data-Frames-in-R-1-8.png>
-Package pdftex.def Info: Data-Frames-in-R-1-8.png  used on input line 943.
+Package pdftex.def Info: Data-Frames-in-R-1-8.png  used on input line 945.
 (pdftex.def)             Requested size: 241.49895pt x 154.2742pt.
-<Data-Frames-in-R-1-9.png, id=1100, 329.23pt x 109.40875pt>
+<Data-Frames-in-R-1-9.png, id=1105, 329.23pt x 109.40875pt>
 File: Data-Frames-in-R-1-9.png Graphic file (type png)
 <use Data-Frames-in-R-1-9.png>
-Package pdftex.def Info: Data-Frames-in-R-1-9.png  used on input line 965.
+Package pdftex.def Info: Data-Frames-in-R-1-9.png  used on input line 967.
 (pdftex.def)             Requested size: 241.49895pt x 80.25668pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1092,17 +1092,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.8})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.970 
+l.972 
        <./Data-Frames-in-R-1-8.png>]
-<Data-Frames-in-R-1-10.png, id=1115, 394.47375pt x 110.4125pt>
+<Data-Frames-in-R-1-10.png, id=1120, 394.47375pt x 110.4125pt>
 File: Data-Frames-in-R-1-10.png Graphic file (type png)
 <use Data-Frames-in-R-1-10.png>
-Package pdftex.def Info: Data-Frames-in-R-1-10.png  used on input line 980.
+Package pdftex.def Info: Data-Frames-in-R-1-10.png  used on input line 982.
 (pdftex.def)             Requested size: 241.49895pt x 67.59412pt.
-<Data-Frames-in-R-1-12.png, id=1116, 310.15875pt x 109.40875pt>
+<Data-Frames-in-R-1-12.png, id=1121, 310.15875pt x 109.40875pt>
 File: Data-Frames-in-R-1-12.png Graphic file (type png)
 <use Data-Frames-in-R-1-12.png>
-Package pdftex.def Info: Data-Frames-in-R-1-12.png  used on input line 998.
+Package pdftex.def Info: Data-Frames-in-R-1-12.png  used on input line 1000.
 (pdftex.def)             Requested size: 241.49895pt x 85.18822pt.
 
 Underfull \vbox (badness 2582) has occurred while \output is active []
@@ -1112,102 +1112,102 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.9})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1003 
+l.1005 
        
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.10})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1003 
+l.1005 
         <./Data-Frames-in-R-1-9.png> <./Data-Frames-in-R-1-10.png>]
-<Data-Frames-in-R-1-14.png, id=1130, 266.9975pt x 95.35625pt>
+<Data-Frames-in-R-1-14.png, id=1135, 266.9975pt x 95.35625pt>
 File: Data-Frames-in-R-1-14.png Graphic file (type png)
 <use Data-Frames-in-R-1-14.png>
-Package pdftex.def Info: Data-Frames-in-R-1-14.png  used on input line 1018.
+Package pdftex.def Info: Data-Frames-in-R-1-14.png  used on input line 1020.
 (pdftex.def)             Requested size: 241.49895pt x 86.2534pt.
-<Data-Frames-in-R-1-16.png, id=1131, 307.1475pt x 114.4275pt>
+<Data-Frames-in-R-1-16.png, id=1136, 307.1475pt x 114.4275pt>
 File: Data-Frames-in-R-1-16.png Graphic file (type png)
 <use Data-Frames-in-R-1-16.png>
-Package pdftex.def Info: Data-Frames-in-R-1-16.png  used on input line 1035.
+Package pdftex.def Info: Data-Frames-in-R-1-16.png  used on input line 1037.
 (pdftex.def)             Requested size: 241.49895pt x 89.97069pt.
  [32
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.11})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1039 \end{figure}
+l.1041 \end{figure}
                    
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.12})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1039 \end{figure}
+l.1041 \end{figure}
                     <./Data-Frames-in-R-1-12.png> <./Data-Frames-in-R-1-14.png>
 ] [33
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.13})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1079 \end{lstlisting}
+l.1081 \end{lstlisting}
                         <./Data-Frames-in-R-1-16.png>]
 
-./main.tex:1087: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter\lst@Fi
+./main.tex:1089: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter\lst@Fi
 llFixed@).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1087  Mean   :3.0   NA’s:
+l.1089  Mean   :3.0   NA’s:
                              0
 ? 
 
-./main.tex:1087: LaTeX Error: Invalid UTF-8 byte "80.
+./main.tex:1089: LaTeX Error: Invalid UTF-8 byte "80.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1087  Mean   :3.0   NA’s:
+l.1089  Mean   :3.0   NA’s:
                              0
 ? 
 
-./main.tex:1087: LaTeX Error: Invalid UTF-8 byte "99.
+./main.tex:1089: LaTeX Error: Invalid UTF-8 byte "99.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1087  Mean   :3.0   NA’s:
+l.1089  Mean   :3.0   NA’s:
                              0
 ? 
 [34]
-Overfull \hbox (12.35254pt too wide) in paragraph at lines 1144--1144
+Overfull \hbox (12.35254pt too wide) in paragraph at lines 1146--1146
 |[]\T1/cmr/bx/n/14.4 Extracting Spe-cific Data from the Data Frame| 
  []
 
 [35] [36] [37] [38] [39] [40] [41] [42]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 1592.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 1594.
  [43] [44]
 Underfull \vbox (badness 1297) has occurred while \output is active []
 
  [45]
-Overfull \hbox (0.85779pt too wide) in paragraph at lines 1731--1732
+Overfull \hbox (0.85779pt too wide) in paragraph at lines 1733--1734
 \T1/cmr/m/n/10 For text files that may not con-form to the CSV for-mat, R pro-v
 ides \T1/cmtt/m/n/10 read.table()
  []
 
 [46] [47] [48] [49] [50] [51]
-<line_script1.png, id=1637, 293.095pt x 211.79124pt>
+<line_script1.png, id=1642, 293.095pt x 211.79124pt>
 File: line_script1.png Graphic file (type png)
 <use line_script1.png>
-Package pdftex.def Info: line_script1.png  used on input line 1943.
+Package pdftex.def Info: line_script1.png  used on input line 1945.
 (pdftex.def)             Requested size: 241.49895pt x 174.50694pt.
-<line_script2.png, id=1638, 295.1025pt x 252.945pt>
+<line_script2.png, id=1643, 295.1025pt x 252.945pt>
 File: line_script2.png Graphic file (type png)
 <use line_script2.png>
-Package pdftex.def Info: line_script2.png  used on input line 1965.
+Package pdftex.def Info: line_script2.png  used on input line 1967.
 (pdftex.def)             Requested size: 241.49895pt x 207.00327pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1217,12 +1217,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.14})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1970 
+l.1972 
         <./line_script1.png>]
-<line_script3.png, id=1659, 295.1025pt x 252.945pt>
+<line_script3.png, id=1664, 295.1025pt x 252.945pt>
 File: line_script3.png Graphic file (type png)
 <use line_script3.png>
-Package pdftex.def Info: line_script3.png  used on input line 1990.
+Package pdftex.def Info: line_script3.png  used on input line 1992.
 (pdftex.def)             Requested size: 241.49895pt x 207.00327pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1232,52 +1232,52 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.15})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1995 
+l.1997 
         <./line_script2.png>] [54
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.16})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2022 #
+l.2024 #
          Graph trucks with red dashed line and square points <./line_script3.pn
 g>]
-<line_script4.png, id=1706, 295.1025pt x 255.95625pt>
+<line_script4.png, id=1711, 295.1025pt x 255.95625pt>
 File: line_script4.png Graphic file (type png)
 <use line_script4.png>
-Package pdftex.def Info: line_script4.png  used on input line 2041.
+Package pdftex.def Info: line_script4.png  used on input line 2043.
 (pdftex.def)             Requested size: 241.49895pt x 209.46758pt.
  [55
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.17})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2056 4 
+l.2058 4 
             5     6 <./line_script4.png>] [56]
-<line_script5.png, id=1782, 297.11pt x 255.95625pt>
+<line_script5.png, id=1787, 297.11pt x 255.95625pt>
 File: line_script5.png Graphic file (type png)
 <use line_script5.png>
-Package pdftex.def Info: line_script5.png  used on input line 2120.
+Package pdftex.def Info: line_script5.png  used on input line 2122.
 (pdftex.def)             Requested size: 241.49895pt x 208.05766pt.
  [57
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.18})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2135 #
+l.2137 #
          Start PDF device driver to save output to figure.pdf <./line_script5.p
 ng>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [58]
-<line_script6.png, id=1858, 326.21875pt x 244.915pt>
+<line_script6.png, id=1863, 326.21875pt x 244.915pt>
 File: line_script6.png Graphic file (type png)
 <use line_script6.png>
-Package pdftex.def Info: line_script6.png  used on input line 2185.
+Package pdftex.def Info: line_script6.png  used on input line 2187.
 (pdftex.def)             Requested size: 241.49895pt x 181.31647pt.
-<bar_script1.png, id=1859, 291.0875pt x 110.4125pt>
+<bar_script1.png, id=1864, 291.0875pt x 110.4125pt>
 File: bar_script1.png Graphic file (type png)
 <use bar_script1.png>
-Package pdftex.def Info: bar_script1.png  used on input line 2205.
+Package pdftex.def Info: bar_script1.png  used on input line 2207.
 (pdftex.def)             Requested size: 241.49895pt x 91.60527pt.
 
 [59
@@ -1285,49 +1285,49 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.19})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2216 \begin{lstlisting}
+l.2218 \begin{lstlisting}
                          
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.20})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2216 \begin{lstlisting}
+l.2218 \begin{lstlisting}
                           <./line_script6.png> <./bar_script1.png>]
-<bar_script2.png, id=1873, 293.095pt x 224.84pt>
+<bar_script2.png, id=1878, 293.095pt x 224.84pt>
 File: bar_script2.png Graphic file (type png)
 <use bar_script2.png>
-Package pdftex.def Info: bar_script2.png  used on input line 2228.
+Package pdftex.def Info: bar_script2.png  used on input line 2230.
 (pdftex.def)             Requested size: 241.49895pt x 185.25856pt.
  [60
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.21})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2247 legend(
+l.2249 legend(
               "topleft", c("Mon","Tue","Wed","Thu","Fri"), cex=0.6, <./bar_scri
 pt2.png>]
-<bar_script3.png, id=1896, 274.02374pt x 251.94125pt>
+<bar_script3.png, id=1901, 274.02374pt x 251.94125pt>
 File: bar_script3.png Graphic file (type png)
 <use bar_script3.png>
-Package pdftex.def Info: bar_script3.png  used on input line 2252.
+Package pdftex.def Info: bar_script3.png  used on input line 2254.
 (pdftex.def)             Requested size: 241.49895pt x 222.04343pt.
  [61
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.22})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2276 legend(
+l.2278 legend(
               6, 30, names(autos_data), cex=0.8, fill=heat.colors(3)) <./bar_sc
 ript3.png>]
-<bar_script4.png, id=1920, 347.2975pt x 227.85126pt>
+<bar_script4.png, id=1925, 347.2975pt x 227.85126pt>
 File: bar_script4.png Graphic file (type png)
 <use bar_script4.png>
-Package pdftex.def Info: bar_script4.png  used on input line 2283.
+Package pdftex.def Info: bar_script4.png  used on input line 2285.
 (pdftex.def)             Requested size: 241.49895pt x 158.44481pt.
-<hist_script1.png, id=1921, 287.0725pt x 222.8325pt>
+<hist_script1.png, id=1926, 287.0725pt x 222.8325pt>
 File: hist_script1.png Graphic file (type png)
 <use hist_script1.png>
-Package pdftex.def Info: hist_script1.png  used on input line 2303.
+Package pdftex.def Info: hist_script1.png  used on input line 2305.
 (pdftex.def)             Requested size: 241.49895pt x 187.46024pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1337,12 +1337,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.23})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2308 
+l.2310 
         <./bar_script4.png>]
-<hist_script2.png, id=1940, 289.08pt x 222.8325pt>
+<hist_script2.png, id=1945, 289.08pt x 222.8325pt>
 File: hist_script2.png Graphic file (type png)
 <use hist_script2.png>
-Package pdftex.def Info: hist_script2.png  used on input line 2326.
+Package pdftex.def Info: hist_script2.png  used on input line 2328.
 (pdftex.def)             Requested size: 241.49895pt x 186.15457pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1352,12 +1352,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.24})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2331 
+l.2333 
         <./hist_script1.png>]
-<hist_script3.png, id=1957, 282.05376pt x 225.84375pt>
+<hist_script3.png, id=1962, 282.05376pt x 225.84375pt>
 File: hist_script3.png Graphic file (type png)
 <use hist_script3.png>
-Package pdftex.def Info: hist_script3.png  used on input line 2355.
+Package pdftex.def Info: hist_script3.png  used on input line 2357.
 (pdftex.def)             Requested size: 241.49895pt x 193.37408pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1367,24 +1367,24 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.25})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2360 
+l.2362 
         <./hist_script2.png>]
-<hist_script4.png, id=1980, 280.04625pt x 210.7875pt>
+<hist_script4.png, id=1985, 280.04625pt x 210.7875pt>
 File: hist_script4.png Graphic file (type png)
 <use hist_script4.png>
-Package pdftex.def Info: hist_script4.png  used on input line 2389.
+Package pdftex.def Info: hist_script4.png  used on input line 2391.
 (pdftex.def)             Requested size: 241.49895pt x 181.78189pt.
  [65
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.26})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2394 
+l.2396 
         <./hist_script3.png>]
-<hist_script5.png, id=2008, 272.01625pt x 202.7575pt>
+<hist_script5.png, id=2013, 272.01625pt x 202.7575pt>
 File: hist_script5.png Graphic file (type png)
 <use hist_script5.png>
-Package pdftex.def Info: hist_script5.png  used on input line 2406.
+Package pdftex.def Info: hist_script5.png  used on input line 2408.
 (pdftex.def)             Requested size: 241.49895pt x 180.02046pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1394,12 +1394,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.27})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2411 
+l.2413 
         <./hist_script4.png>]
-<hist_script6.png, id=2019, 278.03876pt x 198.7425pt>
+<hist_script6.png, id=2024, 278.03876pt x 198.7425pt>
 File: hist_script6.png Graphic file (type png)
 <use hist_script6.png>
-Package pdftex.def Info: hist_script6.png  used on input line 2430.
+Package pdftex.def Info: hist_script6.png  used on input line 2432.
 (pdftex.def)             Requested size: 241.49895pt x 172.62556pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1409,12 +1409,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.28})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2435 
+l.2437 
         <./hist_script5.png>]
-<pie_script1.png, id=2038, 141.52875pt x 132.495pt>
+<pie_script1.png, id=2043, 141.52875pt x 132.495pt>
 File: pie_script1.png Graphic file (type png)
 <use pie_script1.png>
-Package pdftex.def Info: pie_script1.png  used on input line 2451.
+Package pdftex.def Info: pie_script1.png  used on input line 2453.
 (pdftex.def)             Requested size: 241.49895pt x 226.10378pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1424,12 +1424,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.29})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2456 
+l.2458 
         <./hist_script6.png>]
-<pie_script2.png, id=2051, 174.6525pt x 183.68625pt>
+<pie_script2.png, id=2056, 174.6525pt x 183.68625pt>
 File: pie_script2.png Graphic file (type png)
 <use pie_script2.png>
-Package pdftex.def Info: pie_script2.png  used on input line 2471.
+Package pdftex.def Info: pie_script2.png  used on input line 2473.
 (pdftex.def)             Requested size: 241.49895pt x 254.00578pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1439,23 +1439,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.30})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2476 
+l.2478 
         <./pie_script1.png>] [70
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.31})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2501    fill=
+l.2503    fill=
                colors) <./pie_script2.png>]
-<pie_script3.png, id=2090, 262.9825pt x 201.75375pt>
+<pie_script3.png, id=2095, 262.9825pt x 201.75375pt>
 File: pie_script3.png Graphic file (type png)
 <use pie_script3.png>
-Package pdftex.def Info: pie_script3.png  used on input line 2505.
+Package pdftex.def Info: pie_script3.png  used on input line 2507.
 (pdftex.def)             Requested size: 241.49895pt x 185.28014pt.
-<dot_script1.png, id=2091, 236.885pt x 304.13625pt>
+<dot_script1.png, id=2096, 236.885pt x 304.13625pt>
 File: dot_script1.png Graphic file (type png)
 <use dot_script1.png>
-Package pdftex.def Info: dot_script1.png  used on input line 2526.
+Package pdftex.def Info: dot_script1.png  used on input line 2528.
 (pdftex.def)             Requested size: 241.49895pt x 310.071pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1465,12 +1465,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.32})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2531 
+l.2533 
         <./pie_script3.png>]
-<dot_script2.png, id=2105, 234.8775pt x 336.25626pt>
+<dot_script2.png, id=2110, 234.8775pt x 336.25626pt>
 File: dot_script2.png Graphic file (type png)
 <use dot_script2.png>
-Package pdftex.def Info: dot_script2.png  used on input line 2545.
+Package pdftex.def Info: dot_script2.png  used on input line 2547.
 (pdftex.def)             Requested size: 241.49895pt x 345.73724pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1480,18 +1480,18 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.33})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2550 
+l.2552 
         <./dot_script1.png>] [73
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.34})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2567 #
+l.2569 #
          Plot symbols 5-9 with labels <./dot_script2.png>]
-<symbols.png, id=2133, 289.08pt x 302.12875pt>
+<symbols.png, id=2138, 289.08pt x 302.12875pt>
 File: symbols.png Graphic file (type png)
 <use symbols.png>
-Package pdftex.def Info: symbols.png  used on input line 2585.
+Package pdftex.def Info: symbols.png  used on input line 2587.
 (pdftex.def)             Requested size: 241.49895pt x 252.39877pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1501,17 +1501,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.35})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.2596     \item G
+l.2598     \item G
                   enerate a dataset of 100 random points where \texttt{x} is...
  <./symbols.png>]
-Overfull \hbox (1.81033pt too wide) in paragraph at lines 2621--2622
+Overfull \hbox (1.81033pt too wide) in paragraph at lines 2623--2624
 []\T1/cmr/m/n/10 Survey Re-sponses: \T1/cmtt/m/n/10 Satisfied (40%)\T1/cmr/m/n/
 10 , \T1/cmtt/m/n/10 Neutral (35%)\T1/cmr/m/n/10 , and \T1/cmtt/m/n/10 Dissatis
 fied
  []
 
 [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87]
-Overfull \hbox (2.47684pt too wide) in paragraph at lines 3246--3247
+Overfull \hbox (2.47684pt too wide) in paragraph at lines 3251--3252
 []\T1/cmr/m/n/10 Overview of es-sen-tial pack-ages for statis-tics (e.g., \T1/c
 mtt/m/n/10 MASS\T1/cmr/m/n/10 , \T1/cmtt/m/n/10 caret\T1/cmr/m/n/10 , \T1/cmtt/
 m/n/10 tidyverse\T1/cmr/m/n/10 ). 
@@ -1519,15 +1519,193 @@ m/n/10 tidyverse\T1/cmr/m/n/10 ).
 
 [88]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 3314.
- [89] [90]
-<scatter_plot.png, id=2485, 489.83pt x 301.125pt>
+nput line 3319.
+ [89]
+
+./main.tex:3347: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3347 cat("Mean (x̄)
+                      :", mean, "\n")
+? 
+
+./main.tex:3347: LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3347 cat("Mean (x̄)
+                      :", mean, "\n")
+? 
+
+Overfull \hbox (4.68839pt too wide) in paragraph at lines 3352--3352
+|[]\T1/cmr/bx/n/14.4 Procedure to Find the Me-dian from Grouped
+ []
+
+[90] [91] [92]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.48724pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.48724pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.48724pt}.
+
+[93] [94]
+
+./main.tex:3601: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3601   "Deviation (x - x̄)
+                             " = round(deviations, 2),
+? 
+
+./main.tex:3601: LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3601   "Deviation (x - x̄)
+                             " = round(deviations, 2),
+? 
+
+./main.tex:3602: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3602   "Squared Deviation (x - x̄)
+                                     ^2" = round(squared_deviations, 2),
+? 
+
+./main.tex:3602: LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3602   "Squared Deviation (x - x̄)
+                                     ^2" = round(squared_deviations, 2),
+? 
+
+./main.tex:3603: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3603   "f * (x - x̄)
+                       ^2" = round(weighted_squared_deviations, 2)
+? 
+
+./main.tex:3603: LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3603   "f * (x - x̄)
+                       ^2" = round(weighted_squared_deviations, 2)
+? 
+
+./main.tex:3609: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3609 cat("Mean (x̄)
+                      :", round(mean, 2), "\n")
+? 
+
+./main.tex:3609: LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3609 cat("Mean (x̄)
+                      :", round(mean, 2), "\n")
+? 
+
+./main.tex:3610: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3610 cat("Variance (σ²)
+                           :", round(variance, 2), "\n")
+? 
+
+./main.tex:3610: LaTeX Error: Invalid UTF-8 byte "83.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3610 cat("Variance (σ²)
+                           :", round(variance, 2), "\n")
+? 
+
+./main.tex:3610: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@EC�).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3610 cat("Variance (σ²)
+                           :", round(variance, 2), "\n")
+? 
+
+./main.tex:3611: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3611 cat("Standard Deviation (σ)
+                                   :", round(standard_deviation, 2), "\n")
+? 
+
+./main.tex:3611: LaTeX Error: Invalid UTF-8 byte "83.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3611 cat("Standard Deviation (σ)
+                                   :", round(standard_deviation, 2), "\n")
+? 
+
+Underfull \vbox (badness 1132) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.48724pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.48724pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.48724pt}.
+
+[95] [96]
+<scatter_plot.png, id=2604, 489.83pt x 301.125pt>
 File: scatter_plot.png Graphic file (type png)
 <use scatter_plot.png>
-Package pdftex.def Info: scatter_plot.png  used on input line 3388.
+Package pdftex.def Info: scatter_plot.png  used on input line 3661.
 (pdftex.def)             Requested size: 276.00105pt x 169.67645pt.
- [91]
-Overfull \hbox (39.60356pt too wide) in paragraph at lines 3398--3399
+ [97]
+Overfull \hbox (39.60356pt too wide) in paragraph at lines 3671--3672
 \T1/cmr/m/n/10 The cal-cu-lated cor-re-la-tion co-ef-fi-cient ($\OML/cmm/m/it/1
 0 r$\T1/cmr/m/n/10 ) be-tween $\OML/cmm/m/it/10 X$ \T1/cmr/m/n/10 and $\OML/cmm
 /m/it/10 Y$ \T1/cmr/m/n/10 is \T1/cmtt/m/n/10 correlation_coefficient\T1/cmr/m/
@@ -1535,12 +1713,12 @@ n/10 .
  []
 
 
-LaTeX Warning: Reference `fig:scatter_plot' on page 92 undefined on input line 
-3402.
+LaTeX Warning: Reference `fig:scatter_plot' on page 98 undefined on input line 
+3675.
 
-[92 <./scatter_plot.png>] [93] [94] [95] [96] [97]
+[98 <./scatter_plot.png>] [99] [100] [101] [102] [103]
 
-LaTeX Warning: Empty bibliography on input line 3627.
+LaTeX Warning: Empty bibliography on input line 3900.
 
 No file main.ind.
 (./main.aux)
@@ -1550,8 +1728,14 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 71FA9E3EBC2B85AA24D6D3524E2C59A5;23723.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 9DFBF0BE9AE16DBD49E87F9536533035;24031
+(rerunfilecheck)             After:  BB60B17C3E84F9BA8269200E188412D2;24397.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -1562,37 +1746,77 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22974 strings out of 478268
- 384411 string characters out of 5846347
- 1527106 words of memory out of 5000000
- 39316 multiletter control sequences out of 15000+600000
- 479293 words of font info for 45 fonts, out of 8000000 for 9000
+ 23120 strings out of 478268
+ 386475 string characters out of 5846347
+ 1527168 words of memory out of 5000000
+ 39351 multiletter control sequences out of 15000+600000
+ 484237 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,77p,737b,1952s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
-/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pf
-b></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
-local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/loc
-al/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local
-/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/t
-exlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/tex
-live/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texli
-ve/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive
-/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2
-022/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/202
-2/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2022/
-texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2022/te
-xmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2022/texm
-f-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (97 pages, 822561 bytes).
+
+pdfTeX warning (dest): name{subsection.2.59.3} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.57.2} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.57.1} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.52.3} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.51.2} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.51.1} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.47.2} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.47.1} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.44.1} has been referenced but does not
+ exist, replaced by a fixed one
+
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/
+usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</u
+sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><
+/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
+e/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/
+2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/20
+22/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2022
+/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2022/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2022/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2022/texmf
+-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2022/texmf-d
+ist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2022/texmf-dis
+t/fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2022/texmf-dist/
+fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2022/texmf-dist/fo
+nts/type1/public/cm-super/sftt1200.pfb>
+Output written on main.pdf (103 pages, 879093 bytes).
 PDF statistics:
- 2999 PDF objects out of 3580 (max. 8388607)
- 2796 compressed objects within 28 object streams
- 1602 named destinations out of 1728 (max. 500000)
- 1362 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3164 PDF objects out of 3580 (max. 8388607)
+ 2945 compressed objects within 30 object streams
+ 1702 named destinations out of 1728 (max. 500000)
+ 1370 words of extra memory for PDF output out of 10000 (max. 10000000)
 

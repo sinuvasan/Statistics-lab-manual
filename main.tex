@@ -123,6 +123,8 @@ Throughout this manual, R programming is integrated seamlessly with the statisti
 Each chapter contains code snippets, exercises, and case studies to reinforce learning, ensuring that students can apply their knowledge to solve real-world problems. We hope this manual serves as a valuable resource, enabling students to harness the power of statistics and R programming in their academic and professional endeavors.
 
 This version of the preface highlights how R programming is used throughout the manual to teach statistical concepts. It emphasizes the practical, hands-on approach that students will gain by combining theory with code, preparing them for real-world data analysis tasks.
+
+
 \vspace{0.5in}
 R Sinuvasan \\
 October 2024
@@ -3315,32 +3317,260 @@ Suppose you have a dataset representing a set of observations, and you want to a
 
 \section*{R Code}
 \begin{lstlisting}[language=R, caption={R Code for Calculating Weighted Mean}, label={lst:weighted_mean}]
-# Create some example data
-data <- c(5, 15, 25, 35, 45, 55, 65)
+# Define frequencies
+frequencies <- c(12, 15, 8, 10, 5)
 
-# Define the class intervals
-class_intervals <- seq(0, 70, by = 10)
+# Define intervals based on the data
+lower_bounds <- seq(0, 40, by = 10)  # Lower bounds of intervals
+upper_bounds <- seq(10, 50, by = 10) # Upper bounds of intervals
 
-# Use cut to create intervals
-interval_labels <- cut(data, breaks = class_intervals,
-
- include.lowest = TRUE, right = FALSE)
+# Combine lower and upper bounds to create intervals
+intervals <- paste0("[", lower_bounds, "-", upper_bounds, ")")
 
 # Calculate midpoints
-midpoints <- (class_intervals[-1] + 
+midpoints <- (lower_bounds + upper_bounds) / 2
 
-class_intervals[-length(class_intervals)]) / 2
+# Calculate the mean
+sum_midpoint_freq <- sum(midpoints * frequencies)
+total_frequency <- sum(frequencies)
+mean <- sum_midpoint_freq / total_frequency
 
-# Calculate the weighted mean
-weighted_mean <- sum(midpoints * table(interval_labels)) / length(data)
+# Display intervals and midpoints
+data_frame <- data.frame(
+  Interval = intervals,
+  Frequency = frequencies,
+  Midpoint = midpoints
+)
 
-# Display the result
-data_frame <- data.frame(Data = data, Class_Interval = interval_labels)
+# Print the results
 print(data_frame)
-
-# Print the mean using midpoints
-cat("Weighted Mean using Midpoints:", weighted_mean, "\n")
+cat("Mean (x̄):", mean, "\n")
 \end{lstlisting}
+
+
+
+\section{Procedure to Find the Median from Grouped Data}
+
+\subsection*{1. Understand the Data}
+The grouped data is presented as follows:
+
+\[
+\begin{array}{|c|c|}
+\hline
+\text{Class Interval} & \text{Frequency} \\
+\hline
+0-10 & 12 \\
+10-20 & 15 \\
+20-30 & 8 \\
+30-40 & 10 \\
+40-50 & 5 \\
+\hline
+\end{array}
+\]
+
+\subsection*{2. Calculate the Cumulative Frequencies}
+Cumulative frequency is calculated as a running total of the frequencies:
+
+\[
+\begin{array}{|c|c|c|}
+\hline
+\text{Class Interval} & \text{Frequency} & \text{Cumulative Frequency} \\
+\hline
+0-10 & 12 & 12 \\
+10-20 & 15 & 27 \\
+20-30 & 8 & 35 \\
+30-40 & 10 & 45 \\
+40-50 & 5 & 50 \\
+\hline
+\end{array}
+\]
+
+\subsection*{3. Determine $N$ and $\frac{N}{2}$}
+The total number of observations ($N$) is:
+\[
+N = \sum \text{Frequency} = 12 + 15 + 8 + 10 + 5 = 50
+\]
+
+The value of $\frac{N}{2}$ is:
+\[
+\frac{N}{2} = \frac{50}{2} = 25
+\]
+
+\subsection*{4. Identify the Median Class}
+The \textbf{median class} is the first class interval where the cumulative frequency is greater than or equal to $\frac{N}{2}$.
+
+From the table:
+- $\frac{N}{2} = 25$
+- Cumulative frequency for 10–20 is 27, which satisfies the condition.
+
+Thus, the \textbf{median class} is $10-20$.
+
+\subsection*{5. Extract Values for the Median Formula}
+From the median class:
+\begin{itemize}
+    \item $L$: Lower boundary of the median class = $10$
+    \item $F$: Cumulative frequency before the median class = $12$
+    \item $f$: Frequency of the median class = $15$
+    \item $h$: Width of the class interval = $10$
+\end{itemize}
+
+\subsection*{6. Use the Median Formula}
+The formula for the median is:
+\[
+\text{Median} = L + \left( \frac{\frac{N}{2} - F}{f} \right) \times h
+\]
+
+Substitute the values:
+\[
+\text{Median} = 10 + \left( \frac{25 - 12}{15} \right) \times 10
+\]
+
+Simplify:
+\[
+\text{Median} = 10 + \left( \frac{13}{15} \right) \times 10
+\]
+
+\[
+\text{Median} = 10 + 8.67 = 18.67
+\]
+
+\subsection*{7. Conclusion}
+The median is approximately:
+\[
+\text{Median} = 18.67
+\]
+
+
+
+\section*{R Code}
+\begin{lstlisting}[language=R, caption={R Code for Calculating median}, label={lst:median}]
+# Define frequencies, intervals, and midpointsfrequencies <- c(12, 15, 8, 10, 5)lower_bounds <- seq(0, 40, by = 10)upper_bounds <- seq(10, 50, by = 10)intervals <- paste0("[", lower_bounds, "-", upper_bounds, ")")midpoints <- (lower_bounds + upper_bounds) / 2# Calculate cumulative frequenciescumulative_frequencies <- cumsum(frequencies)# Total number of data pointsN <- sum(frequencies)# Find the median class (where cumulative frequency exceeds N/2)half_N <- N / 2median_class_index <- which(cumulative_frequencies >= half_N)[1]# Create a column to highlight the median classis_median_class <- ifelse(seq_along(intervals) == median_class_index, "Median Class", "")# Display the table with the highlightdata_table <- data.frame(  Interval = intervals,  Frequency = frequencies,  Midpoint = midpoints,  Cumulative_Frequency = cumulative_frequencies,  Highlight = is_median_class)print(data_table)# Values for the formulaL <- lower_bounds[median_class_index]  # Lower boundary of the median classF <- ifelse(median_class_index == 1, 0, cumulative_frequencies[median_class_index - 1])  # Cumulative frequency before the median classf <- frequencies[median_class_index]  # Frequency of the median classh <- upper_bounds[median_class_index] - lower_bounds[median_class_index]  # Width of the class interval# Calculate the medianmedian <- L + ((half_N - F) / f) * h# Print the resultcat("\nMedian:", median, "\n")
+\end{lstlisting}
+
+
+
+
+
+
+\section{Procedure to Find the Standard Deviation for Grouped Data}
+
+The standard deviation (\( \sigma \)) measures the spread of data around the mean. The procedure is as follows:
+
+\subsection*{Step 1: Understand the Data}
+The data is grouped into class intervals with corresponding frequencies (\( f_i \)). For example:
+
+\[
+\begin{array}{|c|c|}
+\hline
+\text{Class Interval} & \text{Frequency (\( f \))} \\
+\hline
+0-10 & 12 \\
+10-20 & 15 \\
+20-30 & 8 \\
+30-40 & 10 \\
+40-50 & 5 \\
+\hline
+\end{array}
+\]
+
+\subsection*{Step 2: Find the Midpoints}
+For each class interval, calculate the midpoint (\( x_i \)) using:
+\[
+x_i = \frac{\text{Lower Bound} + \text{Upper Bound}}{2}
+\]
+For example:
+\[
+x_1 = \frac{0 + 10}{2} = 5, \quad x_2 = \frac{10 + 20}{2} = 15, \dots
+\]
+
+\subsection*{Step 3: Compute the Mean}
+The formula for the mean (\( \bar{x} \)) is:
+\[
+\bar{x} = \frac{\sum f_i x_i}{\sum f_i}
+\]
+\begin{itemize}
+    \item Multiply each midpoint (\( x_i \)) by its frequency (\( f_i \)).
+    \item Sum up all \( f_i x_i \).
+    \item Divide by the total frequency (\( \sum f_i \)).
+\end{itemize}
+
+\subsection*{Step 4: Calculate Deviations and Squared Deviations}
+For each midpoint, calculate the deviation from the mean:
+\[
+d_i = x_i - \bar{x}
+\]
+Then square each deviation:
+\[
+d_i^2 = (x_i - \bar{x})^2
+\]
+
+\subsection*{Step 5: Compute Weighted Deviations}
+Multiply each squared deviation (\( d_i^2 \)) by the corresponding frequency (\( f_i \)):
+\[
+f_i \cdot d_i^2
+\]
+
+\subsection*{Step 6: Find the Variance}
+The variance (\( \sigma^2 \)) is calculated as:
+\[
+\sigma^2 = \frac{\sum f_i \cdot d_i^2}{\sum f_i}
+\]
+\begin{itemize}
+    \item Sum up all \( f_i \cdot d_i^2 \).
+    \item Divide by the total frequency (\( \sum f_i \)).
+\end{itemize}
+
+\subsection*{Step 7: Calculate the Standard Deviation}
+Take the square root of the variance to find the standard deviation (\( \sigma \)):
+\[
+\sigma = \sqrt{\sigma^2}
+\]
+
+\subsection*{Conclusion}
+The standard deviation provides an understanding of how much the data is spread around the mean. Follow the above steps to compute \( \sigma \) for any grouped data.
+
+
+\section*{R Code}
+\begin{lstlisting}[language=R, caption={R Code for Calculating Standard deviation}, label={lst: standard deviation}]
+# Define frequencies and intervals
+frequencies <- c(12, 15, 8, 10, 5)
+lower_bounds <- seq(0, 40, by = 10)
+upper_bounds <- seq(10, 50, by = 10)
+midpoints <- (lower_bounds + upper_bounds) / 2  # Calculate midpoints
+
+# Calculate the mean
+total_frequency <- sum(frequencies)
+mean <- sum(midpoints * frequencies) / total_frequency
+
+# Calculate deviations and squared deviations
+deviations <- midpoints - mean
+squared_deviations <- deviations^2
+
+# Calculate weighted squared deviations
+weighted_squared_deviations <- frequencies * squared_deviations
+
+# Calculate variance and standard deviation
+variance <- sum(weighted_squared_deviations) / total_frequency
+standard_deviation <- sqrt(variance)
+
+# Create and display the table
+table_data <- data.frame(
+  "Class Interval" = paste0("[", lower_bounds, "-", upper_bounds, ")"),
+  "Frequency (f)" = frequencies,
+  "Midpoint (x)" = midpoints,
+  "Deviation (x - x̄)" = round(deviations, 2),
+  "Squared Deviation (x - x̄)^2" = round(squared_deviations, 2),
+  "f * (x - x̄)^2" = round(weighted_squared_deviations, 2)
+)
+
+print(table_data)
+
+# Print results
+cat("Mean (x̄):", round(mean, 2), "\n")
+cat("Variance (σ²):", round(variance, 2), "\n")
+cat("Standard Deviation (σ):", round(standard_deviation, 2), "\n")
+\end{lstlisting}
+
 
 \subsection{Exercise}
 

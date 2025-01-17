@@ -125,36 +125,38 @@
 \contentsline {subsection}{\numberline {2.41.5}Summary}{85}{subsection.2.41.5}%
 \contentsline {section}{\numberline {2.42}Working with Packages}{88}{section.2.42}%
 \contentsline {section}{\numberline {2.43}R Markdown}{88}{section.2.43}%
-\contentsline {subsection}{\numberline {2.43.1}Exercise}{90}{subsection.2.43.1}%
-\contentsline {section}{\numberline {2.44}Correlation}{91}{section.2.44}%
-\contentsline {section}{\numberline {2.45}Objectives}{91}{section.2.45}%
-\contentsline {section}{\numberline {2.46}Results}{92}{section.2.46}%
-\contentsline {subsection}{\numberline {2.46.1}Correlation Coefficient}{92}{subsection.2.46.1}%
-\contentsline {subsection}{\numberline {2.46.2}Scatter Plot}{92}{subsection.2.46.2}%
-\contentsline {section}{\numberline {2.47}Discussion}{92}{section.2.47}%
-\contentsline {section}{\numberline {2.48}Regression}{93}{section.2.48}%
-\contentsline {section}{\numberline {2.49}Objectives}{93}{section.2.49}%
-\contentsline {section}{\numberline {2.50}Materials and Methods}{93}{section.2.50}%
-\contentsline {subsection}{\numberline {2.50.1}Data Collection}{93}{subsection.2.50.1}%
-\contentsline {subsection}{\numberline {2.50.2}Linear Regression Analysis}{93}{subsection.2.50.2}%
-\contentsline {section}{\numberline {2.51}Results}{94}{section.2.51}%
-\contentsline {subsection}{\numberline {2.51.1}Descriptive Statistics}{94}{subsection.2.51.1}%
-\contentsline {subsection}{\numberline {2.51.2}Regression Coefficients}{94}{subsection.2.51.2}%
-\contentsline {subsection}{\numberline {2.51.3}Model Summary}{94}{subsection.2.51.3}%
-\contentsline {section}{\numberline {2.52}Discussion}{94}{section.2.52}%
-\contentsline {subsection}{\numberline {2.52.1}Interpretation of Coefficients}{94}{subsection.2.52.1}%
-\contentsline {subsection}{\numberline {2.52.2}Model Fit}{94}{subsection.2.52.2}%
-\contentsline {section}{\numberline {2.53}Conclusion}{95}{section.2.53}%
-\contentsline {section}{\numberline {2.54}Introduction}{96}{section.2.54}%
-\contentsline {section}{\numberline {2.55}Objectives}{96}{section.2.55}%
-\contentsline {section}{\numberline {2.56}Materials and Methods}{96}{section.2.56}%
-\contentsline {subsection}{\numberline {2.56.1}Data Collection}{96}{subsection.2.56.1}%
-\contentsline {subsection}{\numberline {2.56.2}Large Sample Test}{96}{subsection.2.56.2}%
-\contentsline {section}{\numberline {2.57}Results}{97}{section.2.57}%
-\contentsline {subsection}{\numberline {2.57.1}Descriptive Statistics}{97}{subsection.2.57.1}%
-\contentsline {subsection}{\numberline {2.57.2}Large Sample Test Results}{97}{subsection.2.57.2}%
-\contentsline {section}{\numberline {2.58}Discussion}{97}{section.2.58}%
-\contentsline {subsection}{\numberline {2.58.1}Interpretation of Results}{97}{subsection.2.58.1}%
-\contentsline {subsection}{\numberline {2.58.2}Practical Significance}{97}{subsection.2.58.2}%
-\contentsline {subsection}{\numberline {2.58.3}Assumptions and Limitations}{97}{subsection.2.58.3}%
-\contentsline {section}{\numberline {2.59}Conclusion}{97}{section.2.59}%
+\contentsline {section}{\numberline {2.44}Procedure to Find the Median from Grouped Data}{90}{section.2.44}%
+\contentsline {section}{\numberline {2.45}Procedure to Find the Standard Deviation for Grouped Data}{93}{section.2.45}%
+\contentsline {subsection}{\numberline {2.45.1}Exercise}{96}{subsection.2.45.1}%
+\contentsline {section}{\numberline {2.46}Correlation}{97}{section.2.46}%
+\contentsline {section}{\numberline {2.47}Objectives}{97}{section.2.47}%
+\contentsline {section}{\numberline {2.48}Results}{98}{section.2.48}%
+\contentsline {subsection}{\numberline {2.48.1}Correlation Coefficient}{98}{subsection.2.48.1}%
+\contentsline {subsection}{\numberline {2.48.2}Scatter Plot}{98}{subsection.2.48.2}%
+\contentsline {section}{\numberline {2.49}Discussion}{98}{section.2.49}%
+\contentsline {section}{\numberline {2.50}Regression}{99}{section.2.50}%
+\contentsline {section}{\numberline {2.51}Objectives}{99}{section.2.51}%
+\contentsline {section}{\numberline {2.52}Materials and Methods}{99}{section.2.52}%
+\contentsline {subsection}{\numberline {2.52.1}Data Collection}{99}{subsection.2.52.1}%
+\contentsline {subsection}{\numberline {2.52.2}Linear Regression Analysis}{99}{subsection.2.52.2}%
+\contentsline {section}{\numberline {2.53}Results}{100}{section.2.53}%
+\contentsline {subsection}{\numberline {2.53.1}Descriptive Statistics}{100}{subsection.2.53.1}%
+\contentsline {subsection}{\numberline {2.53.2}Regression Coefficients}{100}{subsection.2.53.2}%
+\contentsline {subsection}{\numberline {2.53.3}Model Summary}{100}{subsection.2.53.3}%
+\contentsline {section}{\numberline {2.54}Discussion}{100}{section.2.54}%
+\contentsline {subsection}{\numberline {2.54.1}Interpretation of Coefficients}{100}{subsection.2.54.1}%
+\contentsline {subsection}{\numberline {2.54.2}Model Fit}{100}{subsection.2.54.2}%
+\contentsline {section}{\numberline {2.55}Conclusion}{101}{section.2.55}%
+\contentsline {section}{\numberline {2.56}Introduction}{102}{section.2.56}%
+\contentsline {section}{\numberline {2.57}Objectives}{102}{section.2.57}%
+\contentsline {section}{\numberline {2.58}Materials and Methods}{102}{section.2.58}%
+\contentsline {subsection}{\numberline {2.58.1}Data Collection}{102}{subsection.2.58.1}%
+\contentsline {subsection}{\numberline {2.58.2}Large Sample Test}{102}{subsection.2.58.2}%
+\contentsline {section}{\numberline {2.59}Results}{103}{section.2.59}%
+\contentsline {subsection}{\numberline {2.59.1}Descriptive Statistics}{103}{subsection.2.59.1}%
+\contentsline {subsection}{\numberline {2.59.2}Large Sample Test Results}{103}{subsection.2.59.2}%
+\contentsline {section}{\numberline {2.60}Discussion}{103}{section.2.60}%
+\contentsline {subsection}{\numberline {2.60.1}Interpretation of Results}{103}{subsection.2.60.1}%
+\contentsline {subsection}{\numberline {2.60.2}Practical Significance}{103}{subsection.2.60.2}%
+\contentsline {subsection}{\numberline {2.60.3}Assumptions and Limitations}{103}{subsection.2.60.3}%
+\contentsline {section}{\numberline {2.61}Conclusion}{103}{section.2.61}%
